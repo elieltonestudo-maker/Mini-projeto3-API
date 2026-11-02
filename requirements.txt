@@ -2,3 +2,5 @@ fastapi
 uvicorn
 requests
 deep-translator
+PyPDF2
+streamlit
