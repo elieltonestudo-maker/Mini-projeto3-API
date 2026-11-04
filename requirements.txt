@@ -4,3 +4,4 @@ requests
 deep-translator
 PyPDF2
 streamlit
+langdetect
